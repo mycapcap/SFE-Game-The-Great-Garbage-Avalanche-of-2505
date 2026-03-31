@@ -1,6 +1,14 @@
 {
+  "name": "garbage-avalanche-2505",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Build successful - all JS files are inline loaded'"
+  }
+,
   "resolutions": {
     "minimist": "0.2.1"
-},
+}
 
 }
